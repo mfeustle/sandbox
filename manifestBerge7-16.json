@@ -1,0 +1,301 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "/config/manifest-templates/blank.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Blank Manifest"
+    ]
+  },
+  "items": [
+    {
+      "id": "/config/manifest-templates/blank.json/canvas/b2828ea9-03d2-4133-b90e-caf1c103684b",
+      "type": "Canvas",
+      "height": 2028,
+      "width": 1500,
+      "label": {
+        "en": [
+          "Untitled canvas",
+          ""
+        ]
+      },
+      "items": [
+        {
+          "id": "/config/manifest-templates/blank.json/canvas/b2828ea9-03d2-4133-b90e-caf1c103684b/annotation-page/a70baec7-e6c2-4922-8a71-b21a2cb624f7",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/config/manifest-templates/blank.json/canvas/b2828ea9-03d2-4133-b90e-caf1c103684b/annotation-page/a70baec7-e6c2-4922-8a71-b21a2cb624f7/annotation/c9cdb30e-5c47-4ef3-ade8-42d34671b385",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/config/manifest-templates/blank.json/canvas/b2828ea9-03d2-4133-b90e-caf1c103684b",
+              "body": {
+                "id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/7/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2028,
+                "width": 1500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/config/manifest-templates/blank.json/canvas/0a40b5ea-1608-4837-8043-b8f2803c680b",
+      "type": "Canvas",
+      "height": 2016,
+      "width": 1500,
+      "label": {
+        "en": [
+          "Untitled canvas"
+        ]
+      },
+      "items": [
+        {
+          "id": "/config/manifest-templates/blank.json/canvas/0a40b5ea-1608-4837-8043-b8f2803c680b/annotation-page/be97a449-d7cc-44f5-8ce7-7518ac4437cb",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/config/manifest-templates/blank.json/annotation/a147497e-cb9c-45a3-ac62-c0ab13deb0aa",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/config/manifest-templates/blank.json/canvas/0a40b5ea-1608-4837-8043-b8f2803c680b",
+              "body": {
+                "id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/8/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2016,
+                "width": 1500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/config/manifest-templates/blank.json/canvas/8d29545b-1b8b-4e85-9be1-58f854958f22",
+      "type": "Canvas",
+      "height": 2030,
+      "width": 1500,
+      "label": {
+        "en": [
+          "Untitled canvas"
+        ]
+      },
+      "items": [
+        {
+          "id": "/config/manifest-templates/blank.json/canvas/8d29545b-1b8b-4e85-9be1-58f854958f22/annotation-page/18286509-18ea-4a83-8104-a9737990c7f5",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/config/manifest-templates/blank.json/annotation/e40ec95c-8cb1-44f6-bbd8-6ae8fd3848ce",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/config/manifest-templates/blank.json/canvas/8d29545b-1b8b-4e85-9be1-58f854958f22",
+              "body": {
+                "id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/9/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2030,
+                "width": 1500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/config/manifest-templates/blank.json/canvas/5174ebfc-4805-4f66-8333-fdbed1155de5",
+      "type": "Canvas",
+      "height": 2012,
+      "width": 1500,
+      "label": {
+        "en": [
+          "Untitled canvas"
+        ]
+      },
+      "items": [
+        {
+          "id": "/config/manifest-templates/blank.json/canvas/5174ebfc-4805-4f66-8333-fdbed1155de5/annotation-page/5510ec8c-4682-44d6-adb4-994570d0b21c",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/config/manifest-templates/blank.json/annotation/3a91b7f8-b38d-4d64-b563-bc00e1589765",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/config/manifest-templates/blank.json/canvas/5174ebfc-4805-4f66-8333-fdbed1155de5",
+              "body": {
+                "id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/10/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2012,
+                "width": 1500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/config/manifest-templates/blank.json/canvas/058b2b44-bb04-4a13-82b9-0bcd84df472b",
+      "type": "Canvas",
+      "height": 2039,
+      "width": 1500,
+      "label": {
+        "en": [
+          "Untitled canvas"
+        ]
+      },
+      "items": [
+        {
+          "id": "/config/manifest-templates/blank.json/canvas/058b2b44-bb04-4a13-82b9-0bcd84df472b/annotation-page/68a51527-11d1-4f7c-8765-695b0a95da80",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/config/manifest-templates/blank.json/annotation/36040672-8d51-49b1-b481-a273cd35f468",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/config/manifest-templates/blank.json/canvas/058b2b44-bb04-4a13-82b9-0bcd84df472b",
+              "body": {
+                "id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/11/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2039,
+                "width": 1500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/config/manifest-templates/blank.json/canvas/0622c418-0a72-421f-8890-635ceccc6afb",
+      "type": "Canvas",
+      "height": 2007,
+      "width": 1500,
+      "label": {
+        "en": [
+          "Untitled canvas"
+        ]
+      },
+      "items": [
+        {
+          "id": "/config/manifest-templates/blank.json/canvas/0622c418-0a72-421f-8890-635ceccc6afb/annotation-page/28774080-1650-4b79-8b08-0e2f22e4e715",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/config/manifest-templates/blank.json/annotation/9ffb60a4-2355-4039-b449-1a715a8ec57a",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/config/manifest-templates/blank.json/canvas/0622c418-0a72-421f-8890-635ceccc6afb",
+              "body": {
+                "id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/12/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2007,
+                "width": 1500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/config/manifest-templates/blank.json/canvas/7e157871-4b72-4a4a-b012-99d0dda14ebb",
+      "type": "Canvas",
+      "height": 2027,
+      "width": 1500,
+      "label": {
+        "en": [
+          "Untitled canvas"
+        ]
+      },
+      "items": [
+        {
+          "id": "/config/manifest-templates/blank.json/canvas/7e157871-4b72-4a4a-b012-99d0dda14ebb/annotation-page/99ecc8f8-3b6b-40ca-a744-51cd0284d94b",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/config/manifest-templates/blank.json/annotation/77ea8c85-9b94-4f2e-8955-83abce769553",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/config/manifest-templates/blank.json/canvas/7e157871-4b72-4a4a-b012-99d0dda14ebb",
+              "body": {
+                "id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/13/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2027,
+                "width": 1500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/config/manifest-templates/blank.json/canvas/091c412b-1b95-4e4f-bf51-51c5521644de",
+      "type": "Canvas",
+      "height": 2015,
+      "width": 1500,
+      "label": {
+        "en": [
+          "Untitled canvas"
+        ]
+      },
+      "items": [
+        {
+          "id": "/config/manifest-templates/blank.json/canvas/091c412b-1b95-4e4f-bf51-51c5521644de/annotation-page/8f43f92e-c055-4419-b566-91e49430c743",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/config/manifest-templates/blank.json/annotation/6ddbe2ee-2cb2-4b72-b313-85a712f9104e",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/config/manifest-templates/blank.json/canvas/091c412b-1b95-4e4f-bf51-51c5521644de",
+              "body": {
+                "id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/14/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2015,
+                "width": 1500
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "/config/manifest-templates/blank.json/canvas/e9adac3a-fefd-4646-ada8-a10347bb6908",
+      "type": "Canvas",
+      "height": 2021,
+      "width": 1500,
+      "label": {
+        "en": [
+          "Untitled canvas"
+        ]
+      },
+      "items": [
+        {
+          "id": "/config/manifest-templates/blank.json/canvas/e9adac3a-fefd-4646-ada8-a10347bb6908/annotation-page/24324c18-16fa-4f90-84bf-cf37bbeb82e6",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "/config/manifest-templates/blank.json/annotation/8a2c263a-62dd-4b04-bbcd-a1ff7c93d7c8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "/config/manifest-templates/blank.json/canvas/e9adac3a-fefd-4646-ada8-a10347bb6908",
+              "body": {
+                "id": "https://digital.library.unt.edu/iiif/ark:/67531/metadc1942142/m1/15/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2021,
+                "width": 1500
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
